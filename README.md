@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/f87febe83e81ad255750de20b689cfe9f100b9b84823a1c28fe257251ef0352b.gif" width="100"/>
+  <img src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" width="100"/>
 </div>
 <!--
 **DizarGG/DizarGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
